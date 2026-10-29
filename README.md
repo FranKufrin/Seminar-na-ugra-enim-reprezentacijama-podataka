@@ -1,1 +1,1 @@
-# Seminar-na-ugra-enim-reprezentacijama-podataka
+# Seminar-na-ugrađenim-reprezentacijama-podataka
