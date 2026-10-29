@@ -1,0 +1,1 @@
+# Seminar-na-ugra-enim-reprezentacijama-podataka
